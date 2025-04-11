@@ -1,6 +1,6 @@
 # Cheatsheets
 
-![STARS](https://img.shields.io/github/stars/singhvijayp/cheatsheets?style=social)  ![FORKS](https://img.shields.io/github/forks/singhvijayp/cheatsheets?style=social)  ![COMMIT](https://img.shields.io/github/last-commit/singhvijayp/cheatsheets)  ![SIZE](https://img.shields.io/github/repo-size/singhvijayp/cheatsheets)
+![STARS](https://img.shields.io/github/stars/singhvijayp/cheatsheets)  ![FORKS](https://img.shields.io/github/forks/singhvijayp/cheatsheets)  ![COMMIT](https://img.shields.io/github/last-commit/singhvijayp/cheatsheets)  ![SIZE](https://img.shields.io/github/repo-size/singhvijayp/cheatsheets)
 
 This is a collection of useful cheatsheets that can help you with:
 
